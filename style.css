@@ -143,6 +143,7 @@
 
 #portfolio h1 {
     font-size: 3rem !important;
+    font-weight: bold;
     padding: 20px;
     color: black;
 }
